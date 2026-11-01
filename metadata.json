@@ -1,0 +1,6 @@
+{
+  "name": "Online Tools Pro",
+  "description": "Premium all-in-one suite of 60+ fast, secure, client-side tools for PDF manipulation, image conversion, text editing, financial calculation, developer utilities, and technical SEO analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
